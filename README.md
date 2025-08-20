@@ -6,7 +6,7 @@ This repository showcases client and agency projects I have developed, optimized
 
 
 
-🌍 Projects
+Projects:
 [TAPSVS](https://tapsvs.com/)
 - Developed a custom plugin for product filtering.
 - Integrated third-party APIs for real-time updates.
