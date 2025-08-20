@@ -1,5 +1,5 @@
-# Wordpress-Elementor-Projects
-# Mahad Saleem - WordPress & Elementor Portfolio
+ Wordpress-Elementor-Projects
+ Mahad Saleem - WordPress & Elementor Portfolio
 
 Welcome to my professional WordPress & Elementor portfolio!  
 This repository showcases client and agency projects I have developed, optimized, and maintained. My focus is on **frontend design, Elementor layouts, performance optimization, SEO improvements, and backend enhancements using PHP.
