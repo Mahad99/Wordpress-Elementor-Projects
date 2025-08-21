@@ -77,9 +77,14 @@ Projects:
  [Khadamat FM](https://khadamatfm.ae/)
 - Built Elementor-based website, optimized for mobile-first performance.
 - Implemented local SEO strategies.
+  
+[The Alchemist Coffee Hub](https://thealchemistcoffeehub.com/)
+- Designed and developed a visually engaging coffee shop website using WordPress and Elementor.
+- Integrated an online store for merchandise, enhancing customer engagement and sales.
+- Customized layouts to reflect the brand's unique identity and ambiance.
 
----
- 🛠️ Key Skills & Tech Stack
+
+ Key Skills & Tech Stack:
 - WordPress & Elementor Page Builder  
 - HTML5, CSS3, JavaScript  
 - PHP (custom plugins, backend scripts, API integration)  
@@ -87,8 +92,8 @@ Projects:
 - Performance Optimization (Caching, CDN, Minification)  
 - Responsive & Mobile-First Design  
 
----
 
-📌 Contact
+
+Contact:
 For more information or collaboration, reach me via:  
 [LinkedIn](https://www.linkedin.com/in/mahad-saleem/)
